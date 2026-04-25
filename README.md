@@ -4,8 +4,9 @@ Port Scanner is a network tool which is used to scan open ports on any network. 
 
 ## Features 
 
-- Scans single IP's currently.
+- Scan multiple ports.
 - Detect open ports.
+- Custom port ranges
 
 ## Requirements
 
